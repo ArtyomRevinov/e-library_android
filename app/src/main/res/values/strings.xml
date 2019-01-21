@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E library</string>
+    <string name="search_field">Type the book name</string>
+    <string name="submit_query">Find</string>
+    <string name="poster_content_desc">volume poster</string>
+    <string name="book_title">Title</string>
+    <string name="book_authors">Authors</string>
+    <string name="author_not_found">Author not found</string>
+    <string name="title_not_found">Title not found</string>
+    <string name="load_failed">Failed to load results</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_results">No results found</string>
+</resources>
